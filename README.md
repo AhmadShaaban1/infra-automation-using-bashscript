@@ -82,13 +82,7 @@ Services
 ![image](https://github.com/user-attachments/assets/d0e29e05-a444-4c23-9757-c3f63a38e0d8)
 
 
-# The problems I faced and then solved them 
 
-1: If you use Vagrant on VM, this problem will appear  
-![image](https://github.com/user-attachments/assets/78fdbc3a-4785-41a3-8fa9-4ea4ab02f786)
-
-
-![thx4w-8 (1)](https://github.com/user-attachments/assets/469311fb-d559-44c1-a2a3-3563a7f7dfca)
 
 
  
