@@ -1,4 +1,4 @@
-```markdown
+
 # Automated Infrastructure Provisioning
 
 This project focuses on **automating manual infrastructure tasks** using
